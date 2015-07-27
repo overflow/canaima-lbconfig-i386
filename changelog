@@ -1,4 +1,16 @@
-commit 996870f0d641688d726188a1cd3972c695ecaad6 (HEAD, origin/master, master)
+commit 159df0d79ec98597267d4b6b8ea9e466e8c3beb4 (HEAD, origin/master, master)
+Author: jose perez <sinfallas@gmail.com>
+Date:   Mon Jul 27 19:10:34 2015 -0430
+
+    * se agrega el paquete canaima-info a la lista de paquetes
+
+commit 9613a61a8f4a8108f0d7f9b58ea177d8b39c4a87
+Author: jose perez <sinfallas@gmail.com>
+Date:   Thu Jul 23 18:18:16 2015 -0430
+
+    * changelog
+
+commit 996870f0d641688d726188a1cd3972c695ecaad6
 Author: jose perez <sinfallas@gmail.com>
 Date:   Thu Jul 23 18:17:54 2015 -0430
 
